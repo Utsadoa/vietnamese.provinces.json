@@ -2,32 +2,36 @@
 "HCM": {
     "name": "Ho Chi Minh",
     "capital": "Ha Noi",
-    "lat": "10.7756",
-    "long": "106.7019"
+    "lat": "10.780",
+    "long": "106.690"
+  },
+  "HN": {
+    "name": "Ha Noi",
+    "capital": "Hanoi",
+    "lat": "21.030",
+    "long": "105.840"
   },
   "HP": {
-    "name": "Hai Phong",
+    "name": "Hai phong",
     "capital": "Hanoi",
-    "lat": "20.8651",
-    "long": "106.6838"
+    "lat": "20.860",
+    "long": "106.680"
   },
   "DN": {
     "name": "Da Nang",
-    "capital": "Hanoi",
-    "lat": "16.0748",
-    "long": "108.2240"
-  },
-  "RG": {
-    "name": "Rach Gia",
     "capital": "Ha Noi",
-    "lat": "10.0167",
-    "long": "105.0833"
+    "lat": "16.070",
+    "long": "108.210"
   },
-  "TH": {
-    "name": "Thanh Hoa",
+  "BH": {
+    "name": "Bien Hoa",
     "capital": "Ha Noi",
-    "lat": "19.8075",
-    "long": "105.7764"
-
-}
+    "lat": "10.950",
+    "long": "106.820"
+  }, 
+  "H": {
+    "name": "Hue",
+    "capital": "Ha Noi",
+    "lat": "16.480",
+    "lonng": "107.580"}
 }
